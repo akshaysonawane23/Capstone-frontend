@@ -1,0 +1,32 @@
+.navbar1{
+      position: sticky;
+      top:0;
+      z-index: 100;
+      
+      background-color: #1ac9ec;
+      /* color: rgb(124, 240, 124); */
+      /* height: 50px !important;
+      border: 2px solid red;
+      overflow-y: visible;
+       */
+}
+
+
+.navbar-brand{
+      font-size: 35px;
+      font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.nav-link{
+      font-size: 20px;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.admin{
+      background-color:#f1d0aa            
+}
+.superadmin{
+      background-color: #f1d0aa
+}
